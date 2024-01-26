@@ -11,7 +11,7 @@ self.__uv$config = {
      * @type {string}
      */
     bare: [
-        'https://pyth0n.software/bare/',
+        'pyth0n.software/bare/',
       ],
 
     /**
