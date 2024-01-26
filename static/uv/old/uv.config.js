@@ -1,6 +1,6 @@
 self.__uv$config = {
     prefix: '/sw/',
-    bare: 'https://pyth0n.software/bare/',
+    bare: 'pyth0n.software/bare/',
     encodeUrl: Ultraviolet.codec.xor.encode,
     decodeUrl: Ultraviolet.codec.xor.decode,
     handler: '/uv/uv.handler.js',
