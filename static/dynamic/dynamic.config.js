@@ -5,7 +5,7 @@ self.__dynamic$config = {
   logLevel: 3, 
   bare: {
     version: 3, 
-    path: '/bare/',
+    path: 'pyth0n.software/bare/',
   },
   tab: {
     title: 'Service',
